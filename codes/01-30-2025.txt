@@ -11,3 +11,8 @@ for(var i=0;i<=50;i++){
         console.log(i);
     }
 }
+
+//couting from 1 to 75
+for (var i=1;i<=75;i++){
+    console.log(i)
+}
