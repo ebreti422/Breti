@@ -1,7 +1,103 @@
 Task 1:
 
 1.) Find out 5 five definitions of IOT using online resources.
+-The internet of things, or IoT, is a network of interrelated devices that connect and exchange data with other IoT devices and the cloud. IoT devices are typically embedded with technology such as sensors and software and can include mechanical and digital machines and consumer objects.
+https://www.techtarget.com/iotagenda/definition/Internet-of-Things-IoT
+-Internet of things (IoT) describes devices with sensors, processing ability, software and other technologies that connect and exchange data with other devices and systems over the Internet or other communication networks. The IoT encompasses electronics, communication, and computer science engineering. "Internet of things" has been considered a misnomer because devices do not need to be connected to the public internet; they only need to be connected to a network and be individually addressable.
+https://en.wikipedia.org/wiki/Internet_of_things
+-The Internet of Things (IoT) refers to a network of physical devices, vehicles, appliances, and other physical objects that are embedded with sensors, software, and network connectivity, allowing them to collect and share data.
+https://www.ibm.com/think/topics/internet-of-things
+-The Internet of Things (IoT) refers to the network of physical objects that are connected to the internet using software, sensors, and other technologies. This enables these "smart" devices to collect and exchange data, facilitating communication and automation. IoT extends beyond computers and smartphones to encompass everyday objects like appliances, vehicles, and even clothing. This interconnectedness allows for remote monitoring, control, and analysis, driving efficiency, convenience, and innovation across various sectors, from smart homes and healthcare to manufacturing and transportation.
+https://www.fortinet.com/resources/cyberglossary/iot
+-IoT is an advanced automation and analytics system which deals with artificial intelligence, sensor, networking, electronic, cloud messaging etc. to deliver complete systems for the product or services. The system created by IoT has greater transparency, control, and performance.
+https://www.javatpoint.com/iot-internet-of-things
+
 2.) For each layer of think and write at least 20 examples for it using online resources.
+
+	Device Layer- Devices, sensors, and actuators that collect data and control things in the real world would fall under the category of the foundation layer of IoT, being the "device layer." Some examples would include:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+	Communications Layer- The second layer of IoT transports the data from the device layer to the internet, usually using a gateway which could also include additional processing and often aggregates communications with many other devices. This is where the security happens like authentication, encryption, and malware protection protocols, as well as some processing and decision making could be included in this layer. Some examples could include:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+	Cloud Ingest, Data Storage and Processing Layer- This layer is used to handle data analysis and pre-processing, either in the cloud or in the gateway. Applications can access the data for edge analytics where real time data is necessary. The data is monitored and managed while the processing is completed. Some examples would include:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+	Application Layer- This layer is located in the cloud, where the data is used by end-user applications. Once the data is processed in the cloud it's used to monitor system performance, identify problems, and more. Some examples would include:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
 3.) Find out by 20 IOT usage and explain about them in at least three lines shortly using online
 resources.
 
