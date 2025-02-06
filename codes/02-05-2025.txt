@@ -1,0 +1,19 @@
+Task 1:
+
+1.) Find out 5 five definitions of IOT using online resources.
+2.) For each layer of think and write at least 20 examples for it using online resources.
+3.) Find out by 20 IOT usage and explain about them in at least three lines shortly using online
+resources.
+
+Task 2:
+
+All 30 devices picture you can see in Lecture 2 content:
+
+1.) Identify IOT device.
+2.) Explain about them in three lines at least.
+3.) Mention it usage.
+4.) From where to buy them (Put link to buy that device).
+
+Task 3:
+
+1.) Find protocol for device/hardware that are mentioned in Day – 2 pictures (30) and write at least 3 lines for each protocol found out.
