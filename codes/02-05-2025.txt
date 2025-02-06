@@ -19,7 +19,7 @@ https://www.javatpoint.com/iot-internet-of-things
 	·Cloud Ingest, Data Storage and Processing Layer- This layer is used to handle data analysis and pre-processing, either in the cloud or in the gateway. Applications can access the data for edge analytics where real time data is necessary. The data is monitored and managed while the processing is completed.
 	·Application Layer- This layer is located in the cloud, where the data is used by end-user applications. Once the data is processed in the cloud it's used to monitor system performance, identify problems, and more.
 some examples incorporating all of these four layers would include:
-1.
+1.Smart homes have sensors like in the thermostats and motion detectors which sends data to the Communications Layer usually using wifi. The processing Layer analyzes and integrates the information in the cloud and sends it to the Application Layer where the data is presented through their smartphone or voice assistant for the home owner to control devices within their home.
 2.
 3.
 4.
