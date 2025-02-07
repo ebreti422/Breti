@@ -18,10 +18,17 @@ https://www.javatpoint.com/iot-internet-of-things
 	·Communications Layer- The second layer of IoT transports the data from the device layer to the internet, usually using a gateway which could also include additional processing and often aggregates communications with many other devices. This is where the security happens like authentication, encryption, and malware protection protocols, as well as some processing and decision making could be included in this layer.
 	·Cloud Ingest, Data Storage and Processing Layer- This layer is used to handle data analysis and pre-processing, either in the cloud or in the gateway. Applications can access the data for edge analytics where real time data is necessary. The data is monitored and managed while the processing is completed.
 	·Application Layer- This layer is located in the cloud, where the data is used by end-user applications. Once the data is processed in the cloud it's used to monitor system performance, identify problems, and more.
-some examples incorporating all of these four layers would include:
-1.Smart homes have sensors like in the thermostats and motion detectors which sends data to the Communications Layer usually using wifi. The processing Layer analyzes and integrates the information in the cloud and sends it to the Application Layer where the data is presented through their smartphone or voice assistant for the home owner to control devices within their home.
-2.
-3.
+some examples incorporating all of these four main layers would include:
+
+1.IoT Fleet Tracking from Zubie- This service makes it easy for the customers to track their fleet and is also accessible for consumers to track their deliveries. It uses telematics data to manage fleet and plan routes with always-on GPS. Zubie also keeps an eye on the vehicles health, it can detect engine and battery problems, track maintenance and check fuel levels. It also uses intelligent alerts, reports and dashboards to improve safety and efficiency. It generates detailed reports on the drivers and keeps them accountable. Customers can integrate the GPS tracking into 3rd party apps, home grown systems or big data using API's. It's compatible with most systems so that the dashboards may be customizable to meet any businesses needs. 
+https://zubie.com/
+
+2.Audi's Connect System- This service offers a variety of smart features with multiple plans a user can subscribe to after the free trial period ends including, scheduling services from your smartphone, a stolen vehicle locator, an in-vehicle trip planner, remote lock/unlock, vehicle status reports, car finder, static charging location finder, remote charging status on your iPhone through an app, remote climatization, driving data giving you helpful insights on your driving behavior, set boundaries or receive notifications when your audi leaves or accesses specified speeds and you can access your last parked locations through the app or on the dashboard.
+ https://www.audi.ca/en/customer-area/audi-connect/audi-connect-all-features/
+
+3.Energy-Saving Appliances From Electrolux- Electrolux has integrated smart technologies into almost all available appliances today. Some of these features would include precise temperature control in cooking appliances or smart sensor technology in refrigerators. This will save money on utility bills while reducing your carbon footprint without sacrificing appliance performance. They offer refrigerators with filtration systems to keep air clean and prevent odor transfer and ensures fresh, clean water and ice. They use alarm systems to alert you to power failures, open doors or sudden changes in temperature to protect the food. Electrolux has washers, dryers and dishwashers with sensors to save time and money in bills.
+https://www.oliverdyersappliance.com/blog/advantages-choosing-electrolux-kitchen?srsltid=AfmBOoqP_gvujEAlTn2l6ue0erV17_-zifE8LzYWl-rdJuGYP3guzw-2
+
 4.
 5.
 6.
