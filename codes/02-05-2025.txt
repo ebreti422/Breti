@@ -47,6 +47,11 @@ some examples would include:
 3.connect health
 4.smart thermostat
 5.connected cars
+6.smartphone detection
+7.water flow monitoring
+8.wearables
+9.traffic monitoring
+10.robots and drones
 
 3.) Find out by 20 IOT usage and explain about them in at least three lines shortly using online
 resources.
@@ -59,22 +64,19 @@ https://zubie.com/
 3.Energy-Saving Appliances From Electrolux- Electrolux has integrated smart technologies into almost all available appliances today. Some of these features would include precise temperature control in cooking appliances or smart sensor technology in refrigerators. This will save money on utility bills while reducing your carbon footprint without sacrificing appliance performance. They offer refrigerators with filtration systems to keep air clean and prevent odor transfer and ensures fresh, clean water and ice. They use alarm systems to alert you to power failures, open doors or sudden changes in temperature to protect the food. Electrolux has washers, dryers and dishwashers with sensors to save time and money in bills.
 https://www.oliverdyersappliance.com/blog/advantages-choosing-electrolux-kitchen?srsltid=AfmBOoqP_gvujEAlTn2l6ue0erV17_-zifE8LzYWl-rdJuGYP3guzw-2
 
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
+4.Tesla’s Connectivity Service- Tesla is constantly updating their vehicles to improve functionality, add features, improve reliability and even add games. Tesla will send you notifications to your smartphone when your car alarm goes off, if you left you car unlocked, or if the charge level is critically low. Tesla offers a Traffic Along Route service that shows you which routes are congested, traffic lights and speed camera icons and the In Trip Progress Bar will show you an overview of the traffic along the entire trip.
+https://www.notateslaapp.com/tesla-reference/551/what-is-tesla-premium-connectivity-what-is-included-and-what-is-not-how-much-does-it-cost\
+
+5.IoT Security Systems from Verkada- This company offers everything you need for smart building management and monitoring. They us a centralized IP to connect everything from sensors and door access controllers to smartphones and security cameras. These devices can include sensors that collect environmental data like air quality index, temperature, humidity, particulate matter, volatile organic compounds, motion, noise, smoke and vapour levels. The smart sensors help organizations manage their buildings and provide insights on safety protocols, operational efficiency and the use of physical spaces.
+https://info.verkada.com/iot-smart-sensors/
+
+6.John Deere’s Precision Farming Equipment- John Deere has set a goal to connect 1 million more machines this year. They have completely integrated IoT into their business by using sensors to develop an advanced seeding-fertilizer capability facilitated by sophisticated and previse tracking technologies, as well as their automated seeding technology that can plant more than a thousand seeds a second. John Deere also manufactured their first fully self driving tractor in 2023. 
+https://www.iotworldtoday.com/transportation-logistics/john-deere-takes-high-tech-farming-to-the-next-level#close-modal
+
+7.Enevo’s Waste Management Sensors- Enevo uses IoT devices like ultrasonic transducers, GPS, and accelerometers to monitor the fill level of waste containers, sending data to a cloud-based platform to predict when bins need emptying. They can also detect events like service or sudden location changes.
+https://enevo.com/waste-sensor/
+
+
 Task 2:
 
 All 30 devices picture you can see in Lecture 2 content:
