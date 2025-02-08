@@ -15,11 +15,41 @@ https://www.javatpoint.com/iot-internet-of-things
 2.) Incorporating all 4 basic layers of IoT think about, and write at least 20 examples using online resources.
 
 	·Device Layer- Devices, sensors, and actuators that collect data and control things in the real world would fall under the category of the foundation layer of IoT, being the "device layer."
-	·Communications Layer- The second layer of IoT transports the data from the device layer to the internet, usually using a gateway which could also include additional processing and often aggregates communications with many other devices. This is where the security happens like authentication, encryption, and malware protection protocols, as well as some processing and decision making could be included in this layer.
-	·Cloud Ingest, Data Storage and Processing Layer- This layer is used to handle data analysis and pre-processing, either in the cloud or in the gateway. Applications can access the data for edge analytics where real time data is necessary. The data is monitored and managed while the processing is completed.
-	·Application Layer- This layer is located in the cloud, where the data is used by end-user applications. Once the data is processed in the cloud it's used to monitor system performance, identify problems, and more.
-some examples incorporating all of these four main layers would include:
+some examples would include:
+1.temperatur sensor
+2.light sensor
+3.image sensor
+4.linear actuator
+5.solenoid valves
+https://www.renkeer.com/iot-sensors-and-actuators/#elementor-toc__heading-anchor-12
 
+	·Communications Layer- The second layer of IoT transports the data from the device layer to the internet, usually using a gateway which could also include additional processing and often aggregates communications with many other devices. This is where the security happens like authentication, encryption, and malware protection protocols, as well as some processing and decision making could be included in this layer.
+some examples would include:
+1.MINEW
+2.LoRaWAN
+3.SIMATIC
+4.zigbee protocol
+https://webbylab.com/blog/iot-gateways-explained-a-detailed-guide/#:~:text=IoT%20gateways%20are%20often%20proprietary,%2C%20LoRaWAN%2C%20and%20SIMATIC%20IOT.
+
+	·Cloud Ingest, Data Storage and Processing Layer- This layer is used to handle data analysis and pre-processing, either in the cloud or in the gateway. Applications can access the data for edge analytics where real time data is necessary. The data is monitored and managed while the processing is completed.
+some examples would include:
+1.AWS IoT Core
+2.Microsoft Azure IoT Hub
+3.Google Cloud IoT Core
+4.Apache Kafka
+5.AWS Kinesis
+6.Azure Stream Analytics
+
+	·Application Layer- This layer is located in the cloud, where the data is used by end-user applications. Once the data is processed in the cloud it's used to monitor system performance, identify problems, and more.
+some examples would include:
+1.smart home
+2.smart cities
+3.connect health
+4.smart thermostat
+5.connected cars
+
+3.) Find out by 20 IOT usage and explain about them in at least three lines shortly using online
+resources.
 1.IoT Fleet Tracking from Zubie- This service makes it easy for the customers to track their fleet and is also accessible for consumers to track their deliveries. It uses telematics data to manage fleet and plan routes with always-on GPS. Zubie also keeps an eye on the vehicles health, it can detect engine and battery problems, track maintenance and check fuel levels. It also uses intelligent alerts, reports and dashboards to improve safety and efficiency. It generates detailed reports on the drivers and keeps them accountable. Customers can integrate the GPS tracking into 3rd party apps, home grown systems or big data using API's. It's compatible with most systems so that the dashboards may be customizable to meet any businesses needs. 
 https://zubie.com/
 
@@ -45,11 +75,6 @@ https://www.oliverdyersappliance.com/blog/advantages-choosing-electrolux-kitchen
 18.
 19.
 20.
-
-
-3.) Find out by 20 IOT usage and explain about them in at least three lines shortly using online
-resources.
-
 Task 2:
 
 All 30 devices picture you can see in Lecture 2 content:
